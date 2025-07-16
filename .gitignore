@@ -1,0 +1,42 @@
+# Ignore other files
+*.swp
+*.swo
+*.DS_Store
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore virtual environment directories
+.venv/
+venv/
+env/
+
+# Ignore log files
+logs/
+*.log
+
+# Ignore configuration files
+config/
+*.config
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore Python cache and build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyi
+*.so
+*.egg-info/
+dist/
+build/
+
+# Ignore other files
+*.swp
+*.swo
+*.DS_Store
+kafka/
